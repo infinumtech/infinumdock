@@ -1,4 +1,4 @@
-# infinumdock
+# Infinum Dock
 
 This is where you can find the Thingiverse files: https://www.thingiverse.com/infinumtech/
 
