@@ -5,7 +5,8 @@ This is where you can find the Thingiverse files: https://www.thingiverse.com/in
 They will also be uploaded on the Github
 
 Please understand that we are a new community and constantly learning. A Amazon Wishlist will also be uploaded to view exactly what we used
-As well as a guide on how the wiring was done. 
+
+In order for a guide on how to wire it up, join our Discord. We are working on it as we speak
 
 Here is our Discord Link: https://discord.gg/shXxfghFAQ
 
