@@ -19,7 +19,7 @@ But it just does not have the right form factor
 And that's what we solve here with this project, form factor. 
 
 The crux of the issue is the Digital Divide, during covid, millions of students went home with chrome-bricks (yes, I said bricks)
-because thats about how usefule they where. 
+because thats about how useless they where. 
 
 Student's who didn't have internet access at home couldn't even login to their chrome-bricks because they needed server access. Essentially making them bricks.
 
